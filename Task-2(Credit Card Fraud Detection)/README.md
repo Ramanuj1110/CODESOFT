@@ -3,13 +3,13 @@ Project Overview
 
 This project aims to detect fraudulent credit card transactions using machine learning techniques. The dataset contains transaction data, including features such as transaction amount, time, and others (V1 to V28). The goal is to classify transactions as either fraudulent or genuine, addressing class imbalance and evaluating model performance using appropriate metrics.
 
-Author
+Author : 
 Ramanuj Kumar
 
-Batch
+Batch : 
 Sep-Oct
 
-Domain
+Domain : 
 Data Science
 
 Dataset
